@@ -1,2 +1,2 @@
 # bens_art
-my buddys art ben 
+art for the site for ben fiell
